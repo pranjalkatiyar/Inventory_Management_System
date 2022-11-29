@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="IMSrequired">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IMSrequired/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IMSrequired/JTattoo-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IMSrequired/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
